@@ -13,4 +13,6 @@
 
 **Sample Output**: <br>
 
+![image](https://user-images.githubusercontent.com/22039575/128598455-58d27e3e-bdb8-472b-9b30-b8e77aa1a959.png)
+
 This program was written by Adam Rizk. Email me at adamrizk9@gmail.com with any questions.
