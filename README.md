@@ -10,7 +10,7 @@
 **Execution**:
 * After compilation, run the executable in your terminal. You must then enter the word whose misspellings will be generated.
 * Default number of deletions, substitutions, and insertions are two,one, and one respectively if not otherwise specified by the user.
-* The maximum number of insertions/deletions/substitutions on a given word are three
+* The maximum number of insertions/deletions/substitutions supported on a given word are three
 
 **Sample Output**: <br>
 
