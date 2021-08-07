@@ -11,4 +11,6 @@
 * After compilation, run the executable in your terminal. You must then enter the word whose misspellings will be generated.
 * Default number of deletions, substitutions, and insertions are two,one, and one respectively if not otherwise specified by the user.
 
+**Sample Output**:
+
 This program was written by Adam Rizk. Email me at adamrizk9@gmail.com with any questions.
